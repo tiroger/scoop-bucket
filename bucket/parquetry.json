@@ -1,12 +1,12 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "description": "Fast viewer for Parquet, CSV, JSON and more, local or on S3",
     "homepage": "https://github.com/tiroger/parquetry",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tiroger/parquetry/releases/download/v0.3.0/Parquetry-0.3.0-windows-x64.zip",
-            "hash": "b530a6ffc048ec93578c171c7828397b78fe472d317a3a447c7b7e42712d8e07"
+            "url": "https://github.com/tiroger/parquetry/releases/download/v0.4.0/Parquetry-0.4.0-windows-x64.zip",
+            "hash": "4747c474098835934ca116ab4c88be4c8dd05e1a73378cab47bf2ae9bbb28e2e"
         }
     },
     "bin": "parquetry.exe",
